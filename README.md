@@ -77,6 +77,8 @@ DIVIDE(
 
 ## Dashboard
 
+![Education Program Performance Dashboard](dashboard-final.png)
+
 The dashboard combines KPI cards, trend analysis, categorical comparisons, and interactive slicers to provide a high-level view of program performance.
 
 Users can filter the dashboard by location, program, and date to explore different segments of the data.
